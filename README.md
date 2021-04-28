@@ -11,4 +11,4 @@ Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Lea
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6pfxCOZ78W4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<a href="https://www.youtube.com/dataclouder" target="_blank" >Más vídeos aquí</a>
+<c href="https://www.youtube.com/dataclouder" target="_blank" >Más vídeos aquí</c>
