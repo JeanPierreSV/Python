@@ -1,5 +1,5 @@
 # HelloWorld-Python
-Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Learning debe saber
+Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Learning debe 
 
 
 
