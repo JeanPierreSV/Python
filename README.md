@@ -1,5 +1,5 @@
 # HelloWorld-Python
-Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Learning debe 
+Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Learning debe saber
 
 
 <a href="https://colab.research.google.com/notebooks/intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
