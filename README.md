@@ -6,7 +6,7 @@ Primeros pasos en Python que todo aspirante que quiere adentrarse en Machine Lea
 
 *Colab es una IDE (entorno de desarrollo integrado), es el soporte sobre el cual escribiremos nuestro código y cuando hablamos de Notebook, hablamos del archivo en el cual hemos programado.*
 
+Visualización de datos:
 <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSldytX01wsQF38jZym2Uu9RQXZBJZVKczxjhvVG2k_OTi8dj3S_jQUNF_z25s0JD5d-g&usqp=CAU" width=300></center>
 <img src="https://i.stack.imgur.com/mCBrs.gif">
 
-Visualización de datos:
